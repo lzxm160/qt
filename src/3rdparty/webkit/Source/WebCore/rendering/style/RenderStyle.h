@@ -1230,7 +1230,8 @@ public:
     static EListStyleType initialListStyleType() { return Disc; }
     static EOverflow initialOverflowX() { return OVISIBLE; }
     static EOverflow initialOverflowY() { return OVISIBLE; }
-    static EPageBreak initialPageBreak() { return PBAUTO; }
+    //static EPageBreak initialPageBreak() { return PBAUTO; }
+    static EPageBreak initialPageBreak() { return PBAVOID; }
     static EPosition initialPosition() { return StaticPosition; }
     static ETableLayout initialTableLayout() { return TAUTO; }
     static EUnicodeBidi initialUnicodeBidi() { return UBNormal; }
