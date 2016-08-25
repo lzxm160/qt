@@ -26,10 +26,7 @@
 namespace WebCore {
 
 struct LengthBox {
-    LengthBox(): m_left(Length(0, Fixed))
-        , m_right(Length(0, Fixed))
-        , m_top(Length(1, Fixed))
-        , m_bottom(Length(1, Fixed))
+    LengthBox()
     {
     }
 
