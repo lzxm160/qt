@@ -1251,8 +1251,8 @@ public:
     static Length initialOffset() { return Length(); }
     static Length initialMargin() { return Length(Fixed); }
     static Length initialPadding() { return Length(Fixed); }
-    static Length initialPaddingTop() { return Length(1,Fixed); }
-    static Length initialPaddingBottom() { return Length(1,Fixed); }
+    static Length initialPaddingTop() { return Length(3,Fixed); }
+    static Length initialPaddingBottom() { return Length(3,Fixed); }
     static Length initialTextIndent() { return Length(Fixed); }
     static EVerticalAlign initialVerticalAlign() { return BASELINE; }
     static int initialWidows() { return 2; }
