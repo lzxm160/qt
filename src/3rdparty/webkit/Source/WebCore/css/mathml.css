@@ -182,7 +182,6 @@ mtr {
 
 mtd {
     display: table-cell;
-    padding: 0 0.5ex;
     padding-bottom: 1px;
     padding-top: 1px;
 }
