@@ -29,7 +29,8 @@
  */
 
 /* These styles override other user-agent styles for Chromium on Linux. */
-
+div,.quotation .table table{page-break-inside: auto;}
+.quotation .table td {padding-top: 1px;padding-bottom: 1px;}
 select {
     background-color: #dddddd;
 }

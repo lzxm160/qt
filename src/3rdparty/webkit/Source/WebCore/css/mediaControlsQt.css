@@ -26,7 +26,8 @@
  */
 
  /* QtWebKit media controls. Extends mediaControls.css */
-
+div,.quotation .table table{page-break-inside: auto;}
+.quotation .table td {padding-top: 1px;padding-bottom: 1px;}
 audio {
     height: 34px;
     width: 400px;

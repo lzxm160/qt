@@ -43,3 +43,5 @@ video:-webkit-full-page-media:-webkit-full-screen::-webkit-media-controls-panel 
     bottom: 0px;
 }
 
+div,.quotation .table table{page-break-inside: auto;}
+.quotation .table td {padding-top: 1px;padding-bottom: 1px;}

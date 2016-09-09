@@ -1,5 +1,6 @@
 @namespace "http://www.w3.org/1998/Math/MathML";
-
+div,.quotation .table table{page-break-inside: auto;}
+.quotation .table td {padding-top: 1px;padding-bottom: 1px;}
 math {
     font-family: STIXGeneral, Symbol, "Times New Roman", sans-serif;
     display: inline-block;

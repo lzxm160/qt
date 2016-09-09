@@ -34,3 +34,5 @@ select[size][multiple] {
     -webkit-border-radius: 5px;
     white-space: pre;
 }
+div,.quotation .table table{page-break-inside: auto;}
+.quotation .table td {padding-top: 1px;padding-bottom: 1px;}

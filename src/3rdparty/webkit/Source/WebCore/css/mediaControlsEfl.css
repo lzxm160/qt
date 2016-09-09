@@ -24,7 +24,8 @@
  */
 
 /* EFLWebKit media controls. Extends mediaControls.css */
-
+div,.quotation .table table{page-break-inside: auto;}
+.quotation .table td {padding-top: 1px;padding-bottom: 1px;}
 audio {
     width: 300px;
     height: 20px;

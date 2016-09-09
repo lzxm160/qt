@@ -23,7 +23,8 @@
  */
 
 /* alternate media controls - Extend mediaControls.css */
-
+div,.quotation .table table{page-break-inside: auto;}
+.quotation .table td {padding-top: 1px;padding-bottom: 1px;}
 audio {
     width: 200px;
     height: 25px;

@@ -23,7 +23,8 @@
  */
 
 /* alternate media controls - Extend fullscreen.css */
-
+div,.quotation .table table{page-break-inside: auto;}
+.quotation .table td {padding-top: 1px;padding-bottom: 1px;}
 video:-webkit-full-screen::-webkit-media-controls-panel {
     -webkit-box-align: start;
     -webkit-box-pack: end;    

@@ -19,7 +19,8 @@
  * Boston, MA 02110-1301, USA.
  *
  */
-
+div,.quotation .table table{page-break-inside: auto;}
+.quotation .table td {padding-top: 1px;padding-bottom: 1px;}
 audio {
     height: 20px;
     width: 300px;

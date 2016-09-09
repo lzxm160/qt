@@ -36,3 +36,5 @@ textarea {
   /* Matches IE's text offsets in quirksmode (causes text to wrap the same as IE). */
   padding: 2px 0 0 2px;
 }
+div,.quotation .table table{page-break-inside: auto;}
+.quotation .table td {padding-top: 1px;padding-bottom: 1px;}
